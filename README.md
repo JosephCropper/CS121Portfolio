@@ -1,6 +1,7 @@
 # CS121 Portfolio
 <h1 align="center">Human ✓</h1>
 <h1 align="center">AI disliker ✓</h1>
+
 | Name of project | Link | Description |
 | --- | --- | --- |
 | Project 1 | https://github.com/JosephCropper/CS121Portfolio/blob/master/CS%20Projects/Projects/Project%201.zip | Extremely simplified pokemon inspired battling sim |
